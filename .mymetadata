@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="acms_service"
+  id="myeclipse.1405498483924"
+  context-root="/acms_service"
+  j2ee-spec="5.0"
+  archive="acms_service.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
