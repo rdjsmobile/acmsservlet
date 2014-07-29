@@ -198,7 +198,7 @@ public class GroundServiceTicket {
 				item.put("unit", unit);
 				array.put(item);
 			}
-			object.put("serviceItems", array);
+			object.put("serviceItemList", array);
 			resultSet.close();
 			stmt.close();
 			return object.toString();
